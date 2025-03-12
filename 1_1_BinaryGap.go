@@ -1,4 +1,4 @@
-//100%
+//100%すごい
 package solution
 
 func Solution(N int) int {
